@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @onixlixo123
 - 👀 I’m interested in video games.
 - 🌱 I’m currently learning coding.
-- 💞️ I’m looking to collaborate on NOTHING.
-- 📫 How to reach me... DON'T
 
 <!---
 onixlixo123/onixlixo123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
